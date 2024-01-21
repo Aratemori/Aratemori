@@ -30,7 +30,3 @@
 <img align="left" alt="SQL" width="40px" src="https://www.svgrepo.com/show/374093/sql.svg" />
 
 – [SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasada-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasada-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
