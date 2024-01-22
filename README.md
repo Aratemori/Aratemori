@@ -15,7 +15,7 @@
 <img align="left" alt="HTML" width="40px" src="https://www.svgrepo.com/show/452228/html-5.svg" />
 <img align="left" alt="CSS" width="40px" src="https://www.svgrepo.com/show/452185/css-3.svg" />
 <img align="left" alt="JS" width="40px" src="https://www.svgrepo.com/show/353925/javascript.svg" />
-<img align="left" alt="C++" width="40px" src="https://www.svgrepo.com/show/452183/cpp.svg" />
+<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" />
 <img align="left" alt="Python" width="40px" src="https://www.svgrepo.com/show/374016/python.svg" />
 <br />
 <br />
