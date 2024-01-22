@@ -22,6 +22,10 @@
 
 ### What programming languages, am I curious about:
 
+<img align="left" alt="Java" width="40px" src="https://www.svgrepo.com/show/452234/java.svg" />
+
+- [Java](https://www.java.com/)
+
 <br />
 
 <img align="left" alt="SQL" width="40px" src="https://www.svgrepo.com/show/374093/sql.svg" />
