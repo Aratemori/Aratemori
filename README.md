@@ -24,7 +24,7 @@
 
 <img align="left" alt="Java" width="40px" src="https://www.svgrepo.com/show/452234/java.svg" />
 
-- [Java](https://www.java.com/)
+– [Java](https://www.java.com/)
 
 <br />
 
