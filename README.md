@@ -9,6 +9,10 @@
 - I'm hoping for some advice, but there won't be any.
 - Don't making full projects(just studying, after - we'll see)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratemori&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratemori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### In the moment, I'm practicing now:
 <img align="left" alt="VSCode" width="40px" src="https://www.svgrepo.com/show/374171/vscode.svg" />
 <img align="left" alt="NeoVim" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" />
@@ -26,8 +30,3 @@
 
 <br />
 <br />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratemori&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratemori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
