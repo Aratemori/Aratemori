@@ -25,6 +25,7 @@
 <img align="left" alt="Python" width="40px" src="https://www.svgrepo.com/show/374016/python.svg" />
 
 <br />
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratemori&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
