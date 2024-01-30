@@ -18,5 +18,5 @@
 <img align="left" alt="NeoVim" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" />
 <img align="left" alt="JS" width="40px" src="https://www.svgrepo.com/show/452045/js.svg" />
 <img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" />
-<img align="left" alt="CPP" width="40px" src="https://www.svgrepo.com/show/452183/cpp.svg" />
+<img align="left" alt="CPP" width="42px" src="https://www.svgrepo.com/show/452183/cpp.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.svgrepo.com/show/374016/python.svg" />
