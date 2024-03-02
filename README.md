@@ -2,9 +2,7 @@
 
 ## Hey.. I'm Aratemori - this is my profile in the GitHub
 
-### Im just beginner frontend/system(administrator) developer(I'm just studying, don't waiting expectations from me)))
-
-- Studying JS, C++(C) and Python. I don't know any programming language, and I'm don't working(I torture myself this many language)
+- Studying. I don't know any programming language, and I'm don't working(I torture myself this many language)
 - I'm dumb(I'm just studying!) and whining about the code
 - I'm hoping for some advice, but there won't be any.
 - Don't making full projects(just studying, after - we'll see)
