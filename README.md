@@ -2,11 +2,6 @@
 
 ## Hey.. I'm Aratemori - this is my profile in the GitHub
 
-- Studying. I don't know any programming language, and I'm don't working(I torture myself this many language)
-- I'm dumb(I'm just studying!) and whining about the code
-- I'm hoping for some advice, but there won't be any.
-- Don't making full projects(just studying, after - we'll see)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aratemori&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratemori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
